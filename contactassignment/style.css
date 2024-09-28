@@ -1,0 +1,71 @@
+/*
+MY COLOR PALETTE
+Rich black- 011627
+Turquoise - 41EAD4
+Red Violet - B91372
+Baby Powder- FDFFFC
+Robin egg blue - 55DDE0
+*/
+
+body {
+    background-color: 011627;
+}
+
+body {
+    color: 41EAD4;
+}
+
+body {
+    text-align-last: center;
+}
+button {
+    background-color: FDFFFC;
+}
+
+button {
+    color: 011627;
+}
+
+button:hover {
+    background-color: 55DDE0;
+}
+
+.abril-fatface-regular {
+    font-family: "Abril Fatface", system-ui;
+    font-weight: 400;
+    font-style: normal;
+}
+h1 {
+    font-family: "Abril Fatface", system-ui;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.barlow-thin {
+    font-family: "Barlow", sans-serif;
+    font-weight: 200;
+    font-style: normal;
+}
+
+h2 {
+    font-family: "Barlow", sans-serif;
+    font-weight: 200;
+    font-style: normal;
+}
+
+.crete-round-regular {
+    font-family: "Crete Round", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+button {
+    font-family: "Crete Round", serif;
+    font-weight: 400;
+    font-style: normal;
+    width: 200px;
+    padding: 20px;
+    margin: 55px;
+    border: none;
+    border-radius: 2px;
+}
