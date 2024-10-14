@@ -1,6 +1,76 @@
+/*
+ MY COLOR PALETTE
+Gunmetal- 162521
+*/
+
 h1 {
-    font-family: "Afacad Flux", sans-serif;
+    font-family:
+        Abril Fatface,
+        sans-serif;
+    font-size: xx-large;
+    text-align: center;
 }
 
-topper {
+h2 {
+    font-family:
+        Abril Fatface,
+        sans-serif;
+    text-align: center;
+}
+
+button {
+    background-color: aquamarine;
+    color: azure;
+    font-family: Telegraf;
+    border-radius: 2px;
+    border: none;
+    margin: 10px;
+}
+
+button:hover {
+    background-color: indigo;
+    color: black;
+}
+
+#topper {
+    background-color: aliceblue;
+    color: dimgray;
+}
+
+#navigation {
+    background-color: aliceblue;
+    font-family:
+        Abril Fatface,
+        sans-serif;
+    color: darkgray;
+    padding: 10px;
+    border: none;
+}
+
+#experience {
+    background-color: aliceblue;
+    font-family: Telegraf;
+    color: grey;
+    padding: 20px;
+}
+
+#education {
+    background-color: aliceblue;
+    font-family: Telegraf;
+    color: slategray;
+    padding: 20px;
+}
+
+#skills {
+    background-color: aliceblue;
+    font-family: Telegraf;
+    color: darkslategray;
+    padding: 20px;
+}
+
+#copyright {
+    background-color: aliceblue;
+    font-family: Telegraf;
+    color: black;
+    padding: 20px;
 }
